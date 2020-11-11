@@ -1,4 +1,8 @@
 ### Hi there 👋
+New-comer in Computer Science world looking forward to know more about technologies. :)
+- I'm currently learning Python and C++ with personal projects.
+- Ask me about how I got here. 👀
+
 
 <!--
 **natan-dot-com/natan-dot-com** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
