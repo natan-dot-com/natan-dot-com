@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 New-comer in Computer Science world looking forward to know more about technologies.
 - I'm currently learning Python and C++ with some personal projects.
 - Had working with C for some time.
