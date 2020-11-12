@@ -3,7 +3,7 @@ New-comer in Computer Science world looking forward to know more about technolog
 - I'm currently learning Python and C++ with personal projects.
 - Ask me about how I got here. 👀
 
-[![Spotify](https://novatorem-eosin-delta.vercel.app/api/spotify)]
+[![Spotify](https://novatorem-eosin-delta.vercel.app/api/spotify)
 
 <!--
 **natan-dot-com/natan-dot-com** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
