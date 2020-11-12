@@ -3,6 +3,7 @@ New-comer in Computer Science world looking forward to know more about technolog
 - I'm currently learning Python and C++ with personal projects.
 - Ask me about how I got here. 👀
 
+## Listen with me! 🎧
 ![Spotify](https://novatorem-eosin-delta.vercel.app/api/spotify)
 
 <!--
