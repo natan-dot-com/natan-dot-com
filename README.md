@@ -1,8 +1,8 @@
 ### Hello there 👋
 New-comer in Computer Science world looking forward to know more about technologies.
-- I'm currently learning Python and C++ with some personal projects.
-- Had working with C for some time.
-- 👀 Ask me about how I got here. 
+- 🌱 I'm currently learning Python and C++ with some personal projects.
+- 😄 Had working with C for some time.
+- 💬 Ask me about maths and how I got here. 👀 
 - ⚡ Fun fact: I love learning new languages! Currently going forward with French and working on minor fixes with English. Thinking about improvement is really a nice thing. :)
 
 
