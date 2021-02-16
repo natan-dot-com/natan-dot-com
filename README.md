@@ -21,7 +21,7 @@ New-comer in Computer Science world looking forward to know more about technolog
 ---
 
 ### Looking for more information? 👀
-![Metrics](https://metrics.lecoq.io/natan-dot-com?template=classic&activity=1&languages=1&activity.limit=5&activity.days=14&activity.filter=all&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FSao_Paulo&config.animated=true)
+![Metrics](https://metrics.lecoq.io/natan-dot-com?template=classic&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FSao_Paulo&config.animated=true)
 
 <!--
 **natan-dot-com/natan-dot-com** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
