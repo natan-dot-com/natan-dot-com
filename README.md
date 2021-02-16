@@ -14,7 +14,13 @@ New-comer in Computer Science world looking forward to know more about technolog
 <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> <img height="40" width="40" src="c-programming.svg"> <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png">
 
 ### Looking for more information? 👀
-![Metrics](https://metrics.lecoq.io/natan-dot-com?template=classic&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FSao_Paulo&config.animated=true)
+<details>
+  <summary>
+    I'll show you then!
+  </summary>
+  
+  ![Metrics](https://metrics.lecoq.io/natan-dot-com?template=classic&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FSao_Paulo&config.animated=true)
+</details>
 
 ---
 
