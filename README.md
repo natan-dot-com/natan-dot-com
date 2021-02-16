@@ -7,8 +7,11 @@ New-comer in Computer Science world looking forward to know more about technolog
 
 ---
 
-#### Recent Activity
+<details>
+<summary><b>Recent Activity</b></summary>
+<br>
 <!--START_SECTION:activity-->
+</details>
 
 --- 
 
