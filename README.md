@@ -15,16 +15,13 @@ New-comer in Computer Science world looking forward to know more about technolog
 
 ---
 
-<details>
-<summary><b>Looking for some information?</b> 👀</summary>
-  
-![Metrics](https://metrics.lecoq.io/natan-dot-com?template=classic&activity=1&languages=1&activity.limit=5&activity.days=14&activity.filter=all&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FSao_Paulo&config.animated=true)
-</details>
+### Listen with me! 🎧
+![Spotify](https://novatorem-eosin-delta.vercel.app/api/spotify)
 
 ---
 
-### Listen with me! 🎧
-![Spotify](https://novatorem-eosin-delta.vercel.app/api/spotify)
+### Looking for more information? 👀
+![Metrics](https://metrics.lecoq.io/natan-dot-com?template=classic&activity=1&languages=1&activity.limit=5&activity.days=14&activity.filter=all&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FSao_Paulo&config.animated=true)
 
 <!--
 **natan-dot-com/natan-dot-com** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
