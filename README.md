@@ -28,7 +28,7 @@ New-comer in Computer Science world looking forward to know more about technolog
 ---
 
 ### Where I do also attend 💬
-[<img src="https://img.shields.io/badge/-Telegram-lightgrey" />](https://t.me/Natansh) [<img src="https://img.shields.io/badge/-LinkedIn-blue" />](https://www.linkedin.com/in/natan-sanches-0b79961bb/) [<img src="https://img.shields.io/badge/-Reddit-red">](https://www.reddit.com/user/PointlessAza)
+[<img src="https://img.shields.io/badge/-Telegram-lightgrey" />](https://t.me/Natansh) [<img src="https://img.shields.io/badge/-LinkedIn-blue" />](https://www.linkedin.com/in/natan-sanches-0b79961bb/) [<img src="https://img.shields.io/badge/-Reddit-red">](https://www.reddit.com/user/PointlessAza) [<img src="https://img.shields.io/badge/-Goodreads-orange">](https://www.goodreads.com/user/show/127088506-natan)
 
 <!--
 **natan-dot-com/natan-dot-com** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
