@@ -12,7 +12,7 @@ New-comer in Computer Science world looking forward to know more about technolog
   </summary>
 
 #### Currently working with
-<img height="35" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> <img height="35" width="35" src="c-programming.svg"> <img height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png">
+<img height="35" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> <img height="35" width="35" src="c-programming.svg"> <img height="35" width="35" src="java-svgrepo-com.svg"> <img height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png">
 
 
   ![Metrics](https://metrics.lecoq.io/natan-dot-com?template=classic&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FSao_Paulo&config.animated=true)
