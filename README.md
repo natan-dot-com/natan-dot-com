@@ -28,10 +28,10 @@ New-comer in Computer Science world looking forward to know more about technolog
 I used to love maths since when I was in High School. After getting into university I could say I met up what **real** maths is and then my interest in it just grew up! Almost all of my study moments in maths happen outside the university and I think it's doing really good for academic pourposes.
 
 I could also point some of the areas I'm most interested in:
-- Multivariable Calculus and Real Analysis
+- General Statistics and Probability
 - Discrete Mathematics and Graph Theory
 - Abstract and Linear Algebra
-- General Statistics and Probability
+
 
 It's certainly the science field which gets me excited the most. :)
 
