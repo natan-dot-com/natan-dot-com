@@ -14,7 +14,7 @@ Currently an undergraduate computer science student who's in love with playing w
   </summary>
 
 #### Had worked with
-<img height="35" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> <img height="35" width="35" src="c-programming.svg"> <img height="35" width="35" src="java-svgrepo-com.svg"> <img height="35" width="35" src="https://plugins.jetbrains.com/files/9759/86800/icon/META-INF_pluginIcon.svg"> <img height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"> <img height="35" width="35" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"/> <img height="35" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"/>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 
   ![Metrics](https://metrics.lecoq.io/natan-dot-com?template=classic&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FSao_Paulo&config.animated=true)
@@ -47,7 +47,7 @@ It's certainly the science field which gets me excited the most. :)
 ---
 
 ### Where I do also attend 💬
-[<img src="https://img.shields.io/badge/-Telegram-lightgrey" />](https://t.me/Natansh) [<img src="https://img.shields.io/badge/-LinkedIn-blue" />](https://www.linkedin.com/in/natan-sanches-0b79961bb/) [<img src="https://img.shields.io/badge/-Reddit-red">](https://www.reddit.com/user/PointlessAza) [<img src="https://img.shields.io/badge/-Goodreads-orange">](https://www.goodreads.com/user/show/127088506-natan)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natan-sanches-0b79961bb/) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/PointlessAza) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Natansh) [![Goodreads](https://img.shields.io/badge/Goodreads-%23AC6E2F.svg?style=for-the-badge&logo=goodreads&logoColor=white)](https://www.goodreads.com/user/show/127088506-natan) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/p84rppfqm6cyn6phuxc3p41w7?si=9d8fbf186a8f434e)
 
 <!--
 **natan-dot-com/natan-dot-com** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
