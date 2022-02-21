@@ -5,7 +5,7 @@ Currently an undergraduate computer science student who's in love with playing w
 - 🌱 My current research is around the functionalities and applications of Item Response Theory, together with Automated Item Generation using Natural Language Processing and Machine Learning techniques.
 - 😄 As a developer, I've been working with Python, R (to work with data) and C++ (for general software development) the past few months.
 - 💬 Ask me about everything!
-- ⚡ Fun fact: I love learning new languages! Currently going forward with French and working on minor fixes with English. Thinking about improvement is really a nice thing. :)
+- ⚡ Fun fact: I love reading every kind of books! I track all my reading activity with Goodreads, which can be found right above.
 
 ### Looking for more information?
 <details>
