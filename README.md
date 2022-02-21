@@ -2,7 +2,7 @@
 
 Currently an undergraduate computer science student who's in love with playing with data and applying statistical models in it.
 
-- 🌱 My current research is around Item Response Theory and its applications on Elementary/High School's exams, as a method of creating a general concept of an adaptative test exam using IRT parameters. 
+- 🌱 My current research is around the functionalities and applications of Item Response Theory, together with Automated Item Generation using Natural Language Processing and Machine Learning techniques.
 - 😄 As a developer, I've been working with Python, R (to work with data) and C++ (for general software development) the past few months.
 - 💬 Ask me about everything!
 - ⚡ Fun fact: I love learning new languages! Currently going forward with French and working on minor fixes with English. Thinking about improvement is really a nice thing. :)
