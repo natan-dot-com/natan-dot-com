@@ -2,7 +2,7 @@
 
 Currently an undergraduate computer science student who's in love with playing with data and applying statistical models in it.
 
-- 🌱 My current research's about feature engineering and metalearning applied to the computational interpretation of gens, colaborating directly with [BioAutoML](https://github.com/Bonidia/BioAutoML).
+- 🌱 My current research's about feature engineering and metalearning applied to the computational interpretation of gens, collaborating directly with [BioAutoML](https://github.com/Bonidia/BioAutoML).
 - 📖 My research interests lies in the area of Bio-Inspired Computing and Deep Learning.
 - 💬 Ask me about everything!
 - ⚡ Fun fact: I love reading every kind of books! I track all my reading activity with Goodreads, which can be found right above.
